@@ -61,8 +61,8 @@ def game_hash
       :team_name = "Charlotte Hornets",
       :colors = ["Turquoise", "Purple"],
       :players = [
-        { :player_name = ,
-          :number = ,
+        { :player_name = "Jeff Adrien",
+          :number = "18",
           :shoe = ,
           :points = ,
           :rebounds = ,
