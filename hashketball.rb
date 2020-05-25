@@ -2,7 +2,7 @@
 def game_hash
   nested_hash = {
     :home => {
-      :team_name = ,
+      :team_name = "Brooklyn Nets",
       :colors = ,
       :players
     },
