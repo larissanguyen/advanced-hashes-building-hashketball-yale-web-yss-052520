@@ -101,7 +101,7 @@ def game_hash
           :blocks = 1,
           :slam_dunks = 0
         },
-        { :player_name = "Jeff Adrien",
+        { :player_name = "Kemba Walker",
           :number = "4",
           :shoe = "8",
           :points = 10,
