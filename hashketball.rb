@@ -1,7 +1,7 @@
 # Write your code here!
 def game_hash
   nested_hash = {
-    :home => 
+    :home => ,
     :away => 
   }
 end 
