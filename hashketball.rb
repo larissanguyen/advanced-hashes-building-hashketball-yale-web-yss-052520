@@ -36,7 +36,7 @@ def game_hash
           :slam_dunks = 15
         },
         { :player_name = "Mason Plumlee",
-          :number = "30",
+          :number = "1",
           :shoe = "14",
           :points = 12,
           :rebounds = 12,
