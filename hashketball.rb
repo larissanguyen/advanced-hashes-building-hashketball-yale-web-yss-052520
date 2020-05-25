@@ -78,7 +78,7 @@ def game_hash
           :rebounds = 4,
           :assists = 7,
           :steals = 22,
-          :blocks = 7,
+          :blocks = 15,
           :slam_dunks = 2
         },
         { :player_name = "Jeff Adrien",
