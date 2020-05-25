@@ -63,7 +63,7 @@ def game_hash
       :players = [
         { :player_name = "Jeff Adrien",
           :number = "4",
-          :shoe = "8",
+          :shoe = "18",
           :points = 10,
           :rebounds = 1,
           :assists = 1,
@@ -73,7 +73,7 @@ def game_hash
         },
         { :player_name = "Bismack Biyombo",
           :number = "0",
-          :shoe = "8",
+          :shoe = "",
           :points = 10,
           :rebounds = 1,
           :assists = 1,
