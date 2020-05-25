@@ -72,7 +72,7 @@ def game_hash
           :slam_dunks = 2
         },
         { :player_name = "Bismack Biyombo",
-          :number = "4",
+          :number = "0",
           :shoe = "8",
           :points = 10,
           :rebounds = 1,
